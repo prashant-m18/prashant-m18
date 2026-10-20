@@ -78,7 +78,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Cartify — Multi-Vendor E-Commerce Platform](https://github.com/prashant-m18)
+### 🛒 Cartify — Multi-Vendor E-Commerce Platform
 
 A multi-vendor e-commerce platform with a responsive storefront, vendor dashboard, and admin panel.
 
