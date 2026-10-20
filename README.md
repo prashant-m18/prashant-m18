@@ -88,11 +88,10 @@ A multi-vendor e-commerce platform with a responsive storefront, vendor dashboar
 - Implemented state management for orders, inventory, and commissions.
 - Focused on responsive design and application performance.
 
-### 📋 Gradient — Enterprise Task Management System
-
+### 📋 Project Management App
 A task management platform designed around Admin, Manager, and Employee roles.
 
-**Tech Stack:** React, JavaScript, Supabase, Tailwind CSS
+**Tech Stack:** React, JavaScript, Tailwind CSS
 
 - Designed role-based dashboards and task assignment workflows.
 - Developed deliverable submission and review workflows.
